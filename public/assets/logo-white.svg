@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 160" fill="none">
+  <!-- Gustavo Lêdo CT Logo White Variant -->
+  <g id="Emblem">
+    <!-- Outer Swirl Arc -->
+    <path d="M 80 18 C 118 18 148 48 148 86 C 148 124 118 152 78 152 C 38 152 8 122 8 82 C 8 48 32 24 64 16" stroke="#0B7BEA" stroke-width="14" stroke-linecap="round" fill="none" />
+    <path d="M 14 75 C 10 45 32 20 66 14 C 104 8 142 34 148 72" stroke="#38BDF8" stroke-width="8" stroke-linecap="round" fill="none" />
+    <!-- Inner G Form -->
+    <path d="M 116 64 C 108 48 92 40 76 40 C 52 40 34 58 34 82 C 34 106 52 124 76 124 C 100 124 116 108 116 84 L 76 84" stroke="#FFFFFF" stroke-width="15" stroke-linecap="round" stroke-linejoin="round" fill="none" />
+  </g>
+  <!-- Text Brand -->
+  <g id="Typography">
+    <text x="165" y="80" font-family="'Plus Jakarta Sans', system-ui, sans-serif" font-weight="800" font-size="44" fill="#FFFFFF" letter-spacing="-0.5">GUSTAVO LÊDO</text>
+    <text x="167" y="118" font-family="'Plus Jakarta Sans', system-ui, sans-serif" font-weight="700" font-size="18" fill="#93C5FD" letter-spacing="1.2">CENTRO DE TREINAMENTO FÍSICO</text>
+  </g>
+</svg>

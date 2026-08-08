@@ -1,0 +1,6 @@
+{
+  "name": "Gustavo Lêdo - CT",
+  "description": "Landing page premium e de alta conversão para o Gustavo Lêdo – Centro de Treinamento Físico.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
