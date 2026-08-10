@@ -89,7 +89,7 @@ export const SERVICES_DATA: ServiceItem[] = [
   },
   {
     id: "serv-beach-plus",
-    title: "Beach+",
+    title: "Funcional no Beach+",
     badge: "Esportes na Areia",
     description: "Treinamento funcional e modalidades na areia para condicionamento, agilidade e saúde ao ar livre.",
     iconName: "Sun",
