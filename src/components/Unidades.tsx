@@ -47,7 +47,7 @@ export const Unidades: React.FC<UnidadesProps> = ({ onOpenEvaluationModal }) => 
         <div className="grid grid-cols-1 md:grid-cols-2 gap-8 lg:gap-10">
           {UNITS_DATA.map((unit, index) => {
             const phone = unit.phone || "5553984377312";
-            const whatsappText = encodeURIComponent(`Olá! Gostaria de agendar uma avaliação física na ${unit.name} (${unit.neighborhood}).`);
+            const whatsappText = encodeURIComponent(`Olá! Gostaria de agendar uma aula experimental na ${unit.name} (${unit.neighborhood}).`);
             const whatsappUrl = `https://wa.me/${phone}?text=${whatsappText}`;
 
             return (
@@ -134,7 +134,7 @@ export const Unidades: React.FC<UnidadesProps> = ({ onOpenEvaluationModal }) => 
                     className="inline-flex items-center justify-center gap-2 bg-[#0B7BEA] hover:bg-[#045DB5] text-white font-bold text-sm py-3.5 px-4 rounded-xl transition-all shadow-lg shadow-[#0B7BEA]/20"
                   >
                     <MessageCircle className="w-4 h-4 fill-white/20" />
-                    <span>Agendar nesta Unidade</span>
+                    <span>Agende sua Aula Experimental</span>
                   </a>
                 </div>
               </motion.div>

@@ -78,7 +78,7 @@ export const FloatingWhatsapp: React.FC<FloatingWhatsappProps> = ({ onOpenEvalua
                 className="w-full flex items-center justify-center gap-2 p-3 rounded-xl bg-[#0B7BEA] hover:bg-[#045DB5] text-white font-bold text-xs transition-all shadow-md shadow-[#0B7BEA]/20 mt-1"
               >
                 <Calendar className="w-4 h-4" />
-                <span>Agendar Avaliação Gratuita</span>
+                <span>Agende sua Aula Experimental</span>
               </button>
             </div>
           </motion.div>

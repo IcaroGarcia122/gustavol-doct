@@ -99,7 +99,7 @@ export const Header: React.FC<HeaderProps> = ({ onOpenEvaluationModal, activeSec
               className="inline-flex items-center gap-2 bg-[#0B7BEA] hover:bg-[#045DB5] text-white font-semibold text-sm px-5 py-2.5 rounded-full transition-all duration-200 shadow-md hover:shadow-lg hover:shadow-[#0B7BEA]/20 active:scale-95 group"
             >
               <MessageCircle className="w-4 h-4 fill-white/20 group-hover:scale-110 transition-transform" />
-              <span>Agendar Avaliação</span>
+              <span>Agende sua Aula Experimental</span>
             </button>
           </div>
 
@@ -147,7 +147,7 @@ export const Header: React.FC<HeaderProps> = ({ onOpenEvaluationModal, activeSec
                   className="w-full flex items-center justify-center gap-2 bg-[#0B7BEA] hover:bg-[#045DB5] text-white font-semibold py-3 px-4 rounded-xl shadow-lg transition-all"
                 >
                   <MessageCircle className="w-5 h-5" />
-                  <span>Agendar Avaliação pelo WhatsApp</span>
+                  <span>Agende sua Aula Experimental</span>
                 </button>
               </div>
             </div>

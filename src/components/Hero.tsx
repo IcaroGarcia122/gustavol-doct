@@ -136,7 +136,7 @@ export const Hero: React.FC<HeroProps> = ({ onOpenEvaluationModal }) => {
                 {/* Shine Sweep Effect */}
                 <span className="absolute inset-0 w-full h-full bg-gradient-to-r from-transparent via-white/20 to-transparent -translate-x-full group-hover:translate-x-full transition-transform duration-1000 ease-in-out pointer-events-none" />
                 <MessageCircle className="w-5 h-5 fill-white/20 group-hover:scale-110 transition-transform" />
-                <span>Agendar Avaliação</span>
+                <span>Agende sua Aula Experimental</span>
               </button>
 
               <a

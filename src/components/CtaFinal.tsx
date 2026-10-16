@@ -49,7 +49,7 @@ export const CtaFinal: React.FC<CtaFinalProps> = ({ onOpenEvaluationModal }) => 
             transition={{ duration: 0.6, delay: 0.2 }}
             className="text-lg sm:text-xl text-blue-50 leading-relaxed max-w-2xl mx-auto font-medium"
           >
-            Agende uma avaliação e descubra como um treinamento orientado pode acelerar sua evolução.
+            Agende sua aula experimental e descubra como um treinamento orientado pode acelerar sua evolução.
           </motion.p>
 
           {/* Big Button */}
@@ -66,7 +66,7 @@ export const CtaFinal: React.FC<CtaFinalProps> = ({ onOpenEvaluationModal }) => 
               className="w-full sm:w-auto inline-flex items-center justify-center gap-3 bg-white text-[#0B7BEA] hover:bg-blue-50 font-extrabold text-lg px-9 py-5 rounded-full transition-all duration-300 shadow-2xl hover:scale-[1.02] active:scale-95 group"
             >
               <MessageCircle className="w-6 h-6 fill-[#0B7BEA] group-hover:scale-110 transition-transform" />
-              <span>Agendar Avaliação pelo WhatsApp</span>
+              <span>Agende sua Aula Experimental</span>
               <ArrowRight className="w-5 h-5 group-hover:translate-x-1 transition-transform" />
             </button>
           </motion.div>
@@ -75,7 +75,7 @@ export const CtaFinal: React.FC<CtaFinalProps> = ({ onOpenEvaluationModal }) => 
           <div className="pt-8 grid grid-cols-1 sm:grid-cols-3 gap-4 text-xs font-semibold text-blue-100 max-w-2xl mx-auto border-t border-white/20 mt-8">
             <div className="flex items-center justify-center gap-2">
               <ShieldCheck className="w-4 h-4 text-white" />
-              <span>Avaliação Presencial Individual</span>
+              <span>Aula Experimental Presencial</span>
             </div>
             <div className="flex items-center justify-center gap-2">
               <Clock className="w-4 h-4 text-white" />

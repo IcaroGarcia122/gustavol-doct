@@ -33,7 +33,7 @@ export const EvaluationModal: React.FC<EvaluationModalProps> = ({ isOpen, onClos
     const unitName = selectedUnit === 'hidraulica' ? 'Unidade Hidráulica' : 'Unidade Cassino';
     const phone = selectedUnit === 'hidraulica' ? '5553984377312' : '5553999289890';
 
-    const message = `Olá! Gostaria de agendar uma avaliação física no Gustavo Lêdo CT.%0A%0A*Unidade Desejada:* ${encodeURIComponent(unitName)}%0A*Objetivo:* ${encodeURIComponent(formData.goal)}%0A*Turno de preferência:* ${encodeURIComponent(formData.preferredTime)}`;
+    const message = `Olá! Gostaria de agendar uma aula experimental no Gustavo Lêdo CT.%0A%0A*Unidade Desejada:* ${encodeURIComponent(unitName)}%0A*Objetivo:* ${encodeURIComponent(formData.goal)}%0A*Turno de preferência:* ${encodeURIComponent(formData.preferredTime)}`;
 
     const whatsappUrl = `https://wa.me/${phone}?text=${message}`;
     window.open(whatsappUrl, '_blank');
@@ -84,7 +84,7 @@ export const EvaluationModal: React.FC<EvaluationModalProps> = ({ isOpen, onClos
                   <span>Atendimento Presencial • Rio Grande - RS</span>
                 </div>
                 <h3 className="text-2xl font-extrabold text-white mt-1">
-                  Agendar Avaliação Física
+                  Agende sua Aula Experimental
                 </h3>
                 <p className="text-xs text-blue-100 mt-1">
                   Escolha a unidade e nos envie uma mensagem direta no WhatsApp.

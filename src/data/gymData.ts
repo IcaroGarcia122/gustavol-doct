@@ -262,7 +262,7 @@ export const CONTACT_INFO = {
   address: "Unidade Hidráulica: Rua Primeiro de Maio, 753 | Unidade Cassino: Av. Rio Grande, 98",
   whatsappUrlHidraulica: "https://wa.me/5553984377312?text=Ol%C3%A1!%20Gostaria%20de%20falar%20com%20a%20Unidade%20Hidr%C3%A1ulica.",
   whatsappUrlCassino: "https://wa.me/5553999289890?text=Ol%C3%A1!%20Gostaria%20de%20falar%20com%20a%20Unidade%20Cassino.",
-  whatsappUrl: "https://wa.me/5553984377312?text=Ol%C3%A1!%20Vim%20pelo%20site%20e%20gostaria%20de%20agendar%20uma%20avalia%C3%A7%C3%A3o%20f%C3%ADsica%20no%20Gustavo%20L%C3%AAdo%20CT.",
+  whatsappUrl: "https://wa.me/5553984377312?text=Ol%C3%A1!%20Vim%20pelo%20site%20e%20gostaria%20de%20agendar%20uma%20aula%20experimental%20no%20Gustavo%20L%C3%AAdo%20CT.",
   instagramUrl: "https://instagram.com",
   facebookUrl: "https://facebook.com"
 };
